@@ -1,0 +1,7 @@
+1) What is Tenancy in cloud computing and what is multi-level tenancy?
+Ans- Tenancy in cloud computing refers to the sharing of computing resources in a private 
+     or public environment that is isolated from other users and kept secret.
+     Multi-level tenancy means shared services and resourses for multiple client.Eg:Resources include-Computing,
+     Networking, storage.
+     Each client is isolated and invisible to others. Everyone had a special access key to access the resourceses.
+     benifts like scalability, low maintenance cost, low starting cost.
