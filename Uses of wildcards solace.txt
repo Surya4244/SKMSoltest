@@ -1,0 +1,10 @@
+     Zomato food odering platform
+
+[app]     /[Venue]/[Food]    / [pin code]
+Zomato / Surbhi/ idlli-dosa/ 400101
+
+[App]/ [restaurant]/[location]/[zip code]/[item]
+Zomato/Surbhi/Andheri/400063/Dosa
+
+[App]/ [restaurant]/[location]/[item]/[Zip code]
+Zomato/Surbhi/Andheri/Dosa/400063
